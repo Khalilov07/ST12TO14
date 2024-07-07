@@ -1,0 +1,10 @@
+.course {
+    gap: 20px;
+    width: 30%;
+    display: flex;
+    color: #303030;
+    padding: 20px 15px;
+    border-radius: 15px;
+    background: #87ceeb;
+    flex-direction: column;
+}

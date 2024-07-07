@@ -1,0 +1,19 @@
+{
+    "courses" : [
+        {
+            "title": "HTML",
+            "duration": 2,
+            "descr": "HTML - это скелет сайта"
+        },
+        {
+            "title": "CSS",
+            "duration": 2,
+            "descr": "CSS - это стилизация сайта"
+        },
+        {
+            "title": "JS",
+            "duration": 2,
+            "descr": "JS - это логика сайта"
+        }
+    ]
+}

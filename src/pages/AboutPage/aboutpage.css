@@ -1,0 +1,23 @@
+.counter {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.counter__buttons {
+    gap: 10px;
+    display: flex;
+}
+
+.counter__text {
+    font-size: 42px;
+}
+
+.counter__button {
+    border: none;
+    font-size: 22px;
+    padding: 5px 10px;
+    background: #FFF;
+    border: 1px solid black;
+}

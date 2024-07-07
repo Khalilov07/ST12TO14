@@ -1,0 +1,17 @@
+.header__links {
+    gap: 20px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__link {
+    color: black;
+    font-size: 22px;
+    transition: 200ms;
+}
+
+.header__link:hover {
+    border-bottom: 1px solid black;
+}
